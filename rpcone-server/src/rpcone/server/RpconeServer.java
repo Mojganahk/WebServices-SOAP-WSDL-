@@ -21,6 +21,11 @@ public class RpconeServer {
         PropertyHandlerMapping phm = new PropertyHandlerMapping();
         phm.addHandler("echo1", Echo.class);
         
+        //calculator
+          phm.addHandler("calc", Calculator.class);
+        
+        
+        //
         xmlRpcServer.setHandlerMapping(phm);
         
         
