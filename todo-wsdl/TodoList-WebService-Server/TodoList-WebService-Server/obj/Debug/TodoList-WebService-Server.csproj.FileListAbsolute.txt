@@ -1,0 +1,7 @@
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\bin\TodoList-WebService-Server.dll.config
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\bin\TodoList-WebService-Server.dll
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\bin\TodoList-WebService-Server.pdb
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\obj\Debug\TodoList-WebService-Server.csprojResolveAssemblyReference.cache
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\obj\Debug\TodoList-WebService-Server.csproj.CoreCompileInputs.cache
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\obj\Debug\TodoList-WebService-Server.dll
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Server\TodoList-WebService-Server\obj\Debug\TodoList-WebService-Server.pdb

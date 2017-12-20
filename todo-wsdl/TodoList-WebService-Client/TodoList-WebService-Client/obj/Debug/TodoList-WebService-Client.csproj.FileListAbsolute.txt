@@ -1,0 +1,6 @@
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.csprojResolveAssemblyReference.cache
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\AddTodo.g.cs
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\MainWindow.g.cs
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\App.g.cs
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client_MarkupCompile.cache
+C:\Users\1795643\source\WebServices(WSDL-SOAP)\todo-wsdl\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client_MarkupCompile.lref

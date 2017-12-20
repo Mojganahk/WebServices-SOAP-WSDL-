@@ -12,7 +12,7 @@ public class RpconeClient {
     public static void main(String[] args) throws Exception {
         // client setup
         XmlRpcClientConfigImpl config = new XmlRpcClientConfigImpl();
-        config.setServerURL(new URL("http://127.0.0.1:8080/XmlRpcServlet"));
+        config.setServerURL(new URL("http://127.0.0.1:7272/XmlRpcServlet"));
         // instantiate client and give it config
         XmlRpcClient client = new XmlRpcClient();
         client.setConfig(config);
